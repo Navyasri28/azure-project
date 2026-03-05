@@ -65,6 +65,8 @@ Power BI Dashboard
 This architecture integrates **data engineering, machine learning, and analytics** in one automated pipeline.
 
 ---
+<img width="889" height="451" alt="Screenshot 2026-03-05 224545" src="https://github.com/user-attachments/assets/9f457f97-ea46-46cb-80cd-8ea54bed43fe" />
+
 
 # Dataset
 
@@ -192,6 +194,7 @@ Dashboard insights include:
 This enables **data-driven business decision making**.
 
 ---
+<img width="899" height="497" alt="{710BFB41-ED6D-4D55-9971-E7B523CA6994}" src="https://github.com/user-attachments/assets/6cba0fb1-2c2f-4d82-9fdc-23792d60d48c" />
 
 # Key Results
 
@@ -215,32 +218,6 @@ Minas Gerais
 
 ---
 
-# Project Structure
-
-project-root
-
-data
-│
-├── raw_data
-├── processed_data
-│
-
-notebooks
-│
-├── model_training.ipynb
-│
-
-pipelines
-│
-├── adf_pipeline_config
-
-dashboards
-│
-├── powerbi_dashboard.pbix
-
-README.md
-
----
 
 # Technologies Used
 
