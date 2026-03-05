@@ -44,21 +44,37 @@ Main components:
 The project follows a **modern cloud data pipeline architecture**.
 
 Raw Data (CSV Files)
+
 ↓
+
 Azure Blob Storage
+
 ↓
+
 Azure Data Factory (Copy Activity)
+
 ↓
+
 ADF Mapping Data Flow (Transformation)
+
 ↓
+
 Curated Dataset
+
 ↓
+
 Machine Learning Model (XGBoost)
+
 ↓
+
 Predictions Generated
+
 ↓
+
 ADF Pipeline Automation
+
 ↓
+
 Power BI Dashboard
 
 This architecture integrates **data engineering, machine learning, and analytics** in one automated pipeline.
