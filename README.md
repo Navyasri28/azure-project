@@ -212,8 +212,11 @@ Power BI connects directly to Azure Blob Storage to visualize prediction outputs
 Dashboard insights include:
 
 • Forecasted demand trends
+
 • Category-wise product demand
+
 • State-wise order distribution
+
 • Revenue insights
 
 This enables **data-driven business decision making**.
@@ -280,9 +283,13 @@ Connect Power BI to visualize predictions
 This project demonstrates practical knowledge in:
 
 Cloud Data Engineering
+
 Machine Learning Forecasting
+
 Azure Data Factory Pipelines
+
 Power BI Analytics
+
 End-to-End ML Systems
 
 ---
