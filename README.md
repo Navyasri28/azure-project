@@ -159,11 +159,15 @@ Training environment: **Google Colab**
 
 Steps performed:
 
-1 Load curated dataset
-2 Perform feature selection
-3 Encode categorical variables
-4 Train regression model
-5 Evaluate model performance
+1) Load curated dataset
+
+2) Perform feature selection
+
+3) Encode categorical variables
+
+4) Train regression model
+
+5) Evaluate model performance
 
 Evaluation metrics:
 
