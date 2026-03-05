@@ -117,6 +117,8 @@ Operations performed:
 The result is a **single curated dataset for ML training**.
 
 ---
+<img width="927" height="352" alt="image" src="https://github.com/user-attachments/assets/a368e974-956a-4fb0-abf6-9439cc7bf8d6" />
+
 
 # Feature Engineering
 
